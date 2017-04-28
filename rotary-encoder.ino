@@ -1,5 +1,6 @@
 // From bildr article: http://bildr.org/2012/08/rotary-encoder-arduino/
 // datasheet: http://cdn.sparkfun.com/datasheets/Components/Switches/EC12PLRGBSDVBF-D-25K-24-24C-6108-6HSPEC.pdf
+// Sparkfun product info: https://www.sparkfun.com/products/10982
 
 //these pins can not be changed 2/3 are special pins
 int encoderPin1 = 2;
