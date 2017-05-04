@@ -1,6 +1,6 @@
-const int switchRight = 13;
-const int switchCenter = 12;
-const int switchLeft = 11;
+const int switchRight = 7;
+const int switchCenter = 6;
+const int switchLeft = 5;
 
 void setup() {
   // put your setup code here, to run once:
