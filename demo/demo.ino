@@ -12,9 +12,9 @@
 #define ENCODER_BUTTON_PIN 4
 
 // SWITCH
-#define SWITCH_RIGHT_PIN 5
+#define SWITCH_RIGHT_PIN 7
 #define SWITCH_CENTER_PIN 6
-#define SWITCH_LEFT_PIN 7
+#define SWITCH_LEFT_PIN 5
 
 // LUMINAIRES
 #define EARRING_PIXELS 12 // Number of LEDs in strip
